@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://github.com/Aryanshirsat10/Aryanshirsat10/blob/main/DeveloperTechEnthusiast.png" alt="header-img" />
+<img width="100%" src="https://github.com/Aryanshirsat10/Aryanshirsat10/blob/main/Banner.png" alt="header-img" />
 </div>
 <h1 align="center">Hi, I'm Aryan Shirsat <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
 <h4 align="center">A developer from Mumbai 👨‍💻</h4>
