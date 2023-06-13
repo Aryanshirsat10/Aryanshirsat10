@@ -43,7 +43,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aryanshirsat10&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryanshirsat10&theme=gotham&hide_border=true)<br/>
 
 </div>
