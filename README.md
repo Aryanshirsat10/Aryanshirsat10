@@ -53,7 +53,7 @@
 <!-- Holopin -->
 
 ## Holopin Dashboard
-[![An image of @aryanshirsat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanshirsat)](https://holopin.io/@aryanshirsat)
+[![An image of @aryanshirsat10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanshirsat10)](https://holopin.io/@aryanshirsat10)
 <!---
 Aryanshirsat10/Aryanshirsat10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
