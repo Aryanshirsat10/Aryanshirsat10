@@ -28,7 +28,7 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,react,flutter,dart,html,css,scss,bootstrap,javascript,typescript,vercel,mongodb,jquery,mysql,nextjs,nodejs,bash,git,github,stackoverflow,netlify,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,react,flutter,dart,html,css,scss,bootstrap,tailwind,javascript,typescript,solidity,vercel,mongodb,expressjs,jquery,mysql,postgres,nextjs,nodejs,bash,postman,git,github,stackoverflow,netlify,threejs,php,vite)](https://skillicons.dev)
 
 
 ## 🖌 Creative
